@@ -2,7 +2,7 @@
 title: Main page
 description: The open-source encyclopedia of amateur radio — from getting started to advanced techniques
 published: true
-date: 2026-04-05T17:40:15.079Z
+date: 2026-04-05T18:32:44.635Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-05T06:59:49.114Z
@@ -22,7 +22,7 @@ Amateur radio (also known as ham radio) is a hobby and service that brings peopl
 
 New to amateur radio? Start here.
 
-- [What is Amateur Radio?](/getting-started/what-is-amateur-radio) — An introduction to the hobby
+- [What is Amateur Radio?](/getting-started) — An introduction to the hobby
 - [Why Get Licensed?](/getting-started/why-get-licensed) — The benefits of having a license
 - [How to Get Licensed](/getting-started/how-to-get-licensed) — Steps to earn your first license
 - [Your First Radio](/getting-started/your-first-radio) — Choosing your first transceiver
