@@ -62,23 +62,23 @@ This file tracks the status of every wiki page. Pages move through these stages:
 
 | Page | Status | Notes |
 |------|--------|-------|
-| overview | stub | |
-| ft8 | stub | |
-| ft4 | stub | |
-| js8call | stub | |
-| psk31 | stub | |
-| rtty | stub | |
-| winlink | stub | |
-| packet-radio | stub | |
-| aprs | stub | |
-| dmr | stub | |
-| dstar | stub | |
-| system-fusion | stub | |
-| m17 | stub | |
-| fldigi | stub | |
-| vara | stub | |
-| sound-card-interface | stub | |
-| digital-station-setup | stub | |
+| overview | ai-draft | Initial content written 2026-04-05 |
+| ft8 | ai-draft | Initial content written 2026-04-05 |
+| ft4 | ai-draft | Initial content written 2026-04-05 |
+| js8call | ai-draft | Initial content written 2026-04-05 |
+| psk31 | ai-draft | Initial content written 2026-04-05 |
+| rtty | ai-draft | Initial content written 2026-04-05 |
+| winlink | ai-draft | Initial content written 2026-04-05 |
+| packet-radio | ai-draft | Initial content written 2026-04-05 |
+| aprs | ai-draft | Initial content written 2026-04-05 |
+| dmr | ai-draft | Initial content written 2026-04-05 |
+| dstar | ai-draft | Initial content written 2026-04-05 |
+| system-fusion | ai-draft | Initial content written 2026-04-05 |
+| m17 | ai-draft | Initial content written 2026-04-05 |
+| fldigi | ai-draft | Initial content written 2026-04-05 |
+| vara | ai-draft | Initial content written 2026-04-05 |
+| sound-card-interface | ai-draft | Initial content written 2026-04-05 |
+| digital-station-setup | ai-draft | Initial content written 2026-04-05 |
 
 ## Equipment
 
