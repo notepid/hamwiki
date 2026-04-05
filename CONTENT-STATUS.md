@@ -106,8 +106,8 @@ This file tracks the status of every wiki page. Pages move through these stages:
 
 | Page | Status | Notes |
 |------|--------|-------|
-| overview | stub | |
-| antenna-fundamentals | stub | |
+| overview | ai-draft | Content written 2026-04-05 |
+| antenna-fundamentals | ai-draft | Content written 2026-04-05 |
 | dipole | stub | |
 | vertical | stub | |
 | yagi | stub | |
@@ -119,9 +119,9 @@ This file tracks the status of every wiki page. Pages move through these stages:
 | vhf-uhf-antennas | stub | |
 | satellite-antennas | stub | |
 | antenna-modeling | stub | |
-| feedlines | stub | |
-| baluns-and-ununs | stub | |
-| swr-and-matching | stub | |
+| feedlines | ai-draft | Content written 2026-04-05 |
+| baluns-and-ununs | ai-draft | Content written 2026-04-05 |
+| swr-and-matching | ai-draft | Content written 2026-04-05 |
 | antenna-restrictions | stub | |
 | building-antennas | stub | |
 
