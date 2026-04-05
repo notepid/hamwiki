@@ -1,8 +1,8 @@
 ---
-title: Awards & Achievements Overview
+title: Awards & Achievements
 description: A guide to amateur radio awards programs — from chasing DX countries to activating parks and summits, with advice on getting started
 published: true
-date: 2026-04-05T17:30:18.628Z
+date: 2026-04-05T17:37:10.619Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-05T17:30:18.628Z
