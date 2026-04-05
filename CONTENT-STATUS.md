@@ -129,17 +129,17 @@ This file tracks the status of every wiki page. Pages move through these stages:
 
 | Page | Status | Notes |
 |------|--------|-------|
-| overview | stub | |
-| hf-propagation | stub | |
-| vhf-propagation | stub | |
-| ionosphere | stub | |
-| solar-cycle | stub | |
-| sporadic-e | stub | |
-| tropospheric | stub | |
-| greyline | stub | |
-| nvis | stub | |
-| propagation-tools | stub | |
-| band-conditions | stub | |
+| overview | ai-draft | Content written 2026-04-05 |
+| hf-propagation | ai-draft | Content written 2026-04-05 |
+| vhf-propagation | ai-draft | Content written 2026-04-05 |
+| ionosphere | ai-draft | Content written 2026-04-05 |
+| solar-cycle | ai-draft | Content written 2026-04-05 |
+| sporadic-e | ai-draft | Content written 2026-04-05 |
+| tropospheric | ai-draft | Content written 2026-04-05 |
+| greyline | ai-draft | Content written 2026-04-05 |
+| nvis | ai-draft | Content written 2026-04-05 |
+| propagation-tools | ai-draft | Content written 2026-04-05 |
+| band-conditions | ai-draft | Content written 2026-04-05 |
 
 ## Electronics & Theory
 
