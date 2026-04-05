@@ -163,15 +163,15 @@ This file tracks the status of every wiki page. Pages move through these stages:
 
 | Page | Status | Notes |
 |------|--------|-------|
-| overview | stub | |
-| ares | stub | |
-| races | stub | |
-| skywarn | stub | |
-| emcomm-training | stub | |
-| go-kit | stub | |
-| emergency-nets | stub | |
-| disaster-response | stub | |
-| international-emergency | stub | |
+| overview | ai-draft | Content written 2026-04-05 |
+| ares | ai-draft | Content written 2026-04-05 |
+| races | ai-draft | Content written 2026-04-05 |
+| skywarn | ai-draft | Content written 2026-04-05 |
+| emcomm-training | ai-draft | Content written 2026-04-05 |
+| go-kit | ai-draft | Content written 2026-04-05 |
+| emergency-nets | ai-draft | Content written 2026-04-05 |
+| disaster-response | ai-draft | Content written 2026-04-05 |
+| international-emergency | ai-draft | Content written 2026-04-05 |
 
 ## Satellites & Space
 
