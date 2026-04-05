@@ -14,6 +14,8 @@ The free, open-source encyclopedia of amateur radio. Whether you're just getting
 
 Amateur radio (also known as ham radio) is a hobby and service that brings people, electronics, and communication together. Licensed operators use radio equipment to communicate with others around the world, experiment with antenna and radio technology, provide emergency communications, and much more.
 
+> This wiki is open source and community-driven. Every page can be improved. [Learn how to contribute](/contributing).
+
 ---
 
 ## Getting Started
@@ -198,4 +200,3 @@ Connect with the amateur radio community.
 
 ---
 
-> This wiki is open source and community-driven. Every page can be improved — if you see something that could be better, please contribute!
