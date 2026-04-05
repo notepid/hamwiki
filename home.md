@@ -2,7 +2,7 @@
 title: Main page
 description: The open-source encyclopedia of amateur radio — from getting started to advanced techniques
 published: true
-date: 2026-04-05T17:36:28.216Z
+date: 2026-04-05T17:38:37.362Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-05T06:59:49.114Z
@@ -149,7 +149,7 @@ The competitive side of amateur radio.
 
 Track your progress and earn recognition.
 
-- [Awards Overview](/awards/overview)
+- [Awards Overview](/awards)
 - [DXCC](/awards/dxcc) · [WAS](/awards/was) · [WAZ](/awards/waz) · [VUCC](/awards/vucc)
 - [POTA](/awards/pota) · [SOTA](/awards/sota) · [IOTA](/awards/iota) · [Other Awards](/awards/other-awards)
 
