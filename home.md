@@ -2,8 +2,8 @@
 title: Main page
 description: The open-source encyclopedia of amateur radio — from getting started to advanced techniques
 published: true
-date: 2026-04-05T09:30:00.000Z
-tags:
+date: 2026-04-05T17:36:28.216Z
+tags: 
 editor: markdown
 dateCreated: 2026-04-05T06:59:49.114Z
 ---
@@ -34,7 +34,7 @@ New to amateur radio? Start here.
 
 Licensing systems vary by country. Find the information relevant to your location.
 
-- [Licensing Overview](/licensing/overview)
+- [Licensing Overview](/licensing)
 - [United States (FCC)](/licensing/united-states) · [Canada (ISED)](/licensing/canada) · [United Kingdom (Ofcom)](/licensing/united-kingdom)
 - [Europe (CEPT/HAREC)](/licensing/europe) · [Australia (ACMA)](/licensing/australia) · [Japan (MIC)](/licensing/japan) · [Other Countries](/licensing/other-countries)
 - [Reciprocal Licensing](/licensing/reciprocal-licensing) · [Callsign Structure](/licensing/callsign-structure) · [Band Privileges](/licensing/band-privileges)
