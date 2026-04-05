@@ -242,12 +242,12 @@ This file tracks the status of every wiki page. Pages move through these stages:
 
 | Page | Status | Notes |
 |------|--------|-------|
-| overview | stub | |
-| origins-of-radio | stub | |
-| early-amateur-radio | stub | |
-| golden-age | stub | |
-| notable-hams | stub | |
-| amateur-radio-milestones | stub | |
+| overview | ai-draft | AI-generated initial content |
+| origins-of-radio | ai-draft | AI-generated initial content |
+| early-amateur-radio | ai-draft | AI-generated initial content |
+| golden-age | ai-draft | AI-generated initial content |
+| notable-hams | ai-draft | AI-generated initial content |
+| amateur-radio-milestones | ai-draft | AI-generated initial content |
 
 ## Community & Resources
 
