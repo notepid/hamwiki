@@ -108,12 +108,12 @@ This file tracks the status of every wiki page. Pages move through these stages:
 |------|--------|-------|
 | overview | ai-draft | Content written 2026-04-05 |
 | antenna-fundamentals | ai-draft | Content written 2026-04-05 |
-| dipole | stub | |
+| dipole | ai-draft | Content written 2026-04-05 |
 | vertical | stub | |
-| yagi | stub | |
-| loop-antennas | stub | |
-| end-fed-half-wave | stub | |
-| wire-antennas | stub | |
+| yagi | ai-draft | Content written 2026-04-05 |
+| loop-antennas | ai-draft | Content written 2026-04-05 |
+| end-fed-half-wave | ai-draft | Content written 2026-04-05 |
+| wire-antennas | ai-draft | Content written 2026-04-05 |
 | mobile-antennas | stub | |
 | portable-antennas | stub | |
 | vhf-uhf-antennas | stub | |
