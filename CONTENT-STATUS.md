@@ -189,13 +189,13 @@ This file tracks the status of every wiki page. Pages move through these stages:
 
 | Page | Status | Notes |
 |------|--------|-------|
-| overview | stub | |
-| getting-started-contesting | stub | |
-| major-contests | stub | |
-| contest-logging | stub | |
-| contest-station-setup | stub | |
-| contesting-techniques | stub | |
-| contest-calendar | stub | |
+| overview | ai-draft | Initial content written 2026-04-05 |
+| getting-started-contesting | ai-draft | Initial content written 2026-04-05 |
+| major-contests | ai-draft | Initial content written 2026-04-05 |
+| contest-logging | ai-draft | Initial content written 2026-04-05 |
+| contest-station-setup | ai-draft | Initial content written 2026-04-05 |
+| contesting-techniques | ai-draft | Initial content written 2026-04-05 |
+| contest-calendar | ai-draft | Initial content written 2026-04-05 |
 
 ## Awards & Achievements
 
