@@ -215,15 +215,15 @@ This file tracks the status of every wiki page. Pages move through these stages:
 
 | Page | Status | Notes |
 |------|--------|-------|
-| overview | stub | |
-| logging-software | stub | |
-| digital-mode-software | stub | |
-| antenna-modeling-software | stub | |
-| sdr-software | stub | |
-| satellite-tracking-software | stub | |
-| contest-software | stub | |
-| cw-training-software | stub | |
-| online-tools | stub | |
+| overview | ai-draft | Content written 2026-04-05 |
+| logging-software | ai-draft | Content written 2026-04-05 |
+| digital-mode-software | ai-draft | Content written 2026-04-05 |
+| antenna-modeling-software | ai-draft | Content written 2026-04-05 |
+| sdr-software | ai-draft | Content written 2026-04-05 |
+| satellite-tracking-software | ai-draft | Content written 2026-04-05 |
+| contest-software | ai-draft | Content written 2026-04-05 |
+| cw-training-software | ai-draft | Content written 2026-04-05 |
+| online-tools | ai-draft | Content written 2026-04-05 |
 
 ## DIY & Homebrew
 
