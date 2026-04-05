@@ -26,17 +26,17 @@ This file tracks the status of every wiki page. Pages move through these stages:
 
 | Page | Status | Notes |
 |------|--------|-------|
-| overview | stub | |
-| united-states | stub | |
-| canada | stub | |
-| united-kingdom | stub | |
-| europe | stub | |
-| australia | stub | |
-| japan | stub | |
-| other-countries | stub | |
-| reciprocal-licensing | stub | |
-| callsign-structure | stub | |
-| band-privileges | stub | |
+| overview | ai-draft | Initial content written 2026-04-05 |
+| united-states | ai-draft | Initial content written 2026-04-05 |
+| canada | ai-draft | Initial content written 2026-04-05 |
+| united-kingdom | ai-draft | Initial content written 2026-04-05 |
+| europe | ai-draft | Initial content written 2026-04-05 |
+| australia | ai-draft | Initial content written 2026-04-05 |
+| japan | ai-draft | Initial content written 2026-04-05 |
+| other-countries | ai-draft | Initial content written 2026-04-05 |
+| reciprocal-licensing | ai-draft | Initial content written 2026-04-05 |
+| callsign-structure | ai-draft | Initial content written 2026-04-05 |
+| band-privileges | ai-draft | Initial content written 2026-04-05 |
 
 ## Operating
 
