@@ -145,19 +145,19 @@ This file tracks the status of every wiki page. Pages move through these stages:
 
 | Page | Status | Notes |
 |------|--------|-------|
-| overview | stub | |
-| basic-electricity | stub | |
-| ohms-law | stub | |
-| ac-circuits | stub | |
-| semiconductors | stub | |
-| oscillators | stub | |
-| receivers | stub | |
-| transmitters | stub | |
-| modulation | stub | |
-| filters-theory | stub | |
-| transmission-lines | stub | |
-| rf-safety | stub | |
-| electromagnetic-spectrum | stub | |
+| overview | ai-draft | Initial content written 2026-04-05 |
+| basic-electricity | ai-draft | Initial content written 2026-04-05 |
+| ohms-law | ai-draft | Initial content written 2026-04-05 |
+| ac-circuits | ai-draft | Initial content written 2026-04-05 |
+| semiconductors | ai-draft | Initial content written 2026-04-05 |
+| oscillators | ai-draft | Initial content written 2026-04-05 |
+| receivers | ai-draft | Initial content written 2026-04-05 |
+| transmitters | ai-draft | Initial content written 2026-04-05 |
+| modulation | ai-draft | Initial content written 2026-04-05 |
+| filters-theory | ai-draft | Initial content written 2026-04-05 |
+| transmission-lines | ai-draft | Initial content written 2026-04-05 |
+| rf-safety | ai-draft | Initial content written 2026-04-05 |
+| electromagnetic-spectrum | ai-draft | Initial content written 2026-04-05 |
 
 ## Emergency Communications
 
