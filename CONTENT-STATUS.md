@@ -253,13 +253,13 @@ This file tracks the status of every wiki page. Pages move through these stages:
 
 | Page | Status | Notes |
 |------|--------|-------|
-| overview | stub | |
-| clubs-and-organizations | stub | |
-| arrl | stub | |
-| rsgb | stub | |
-| iaru | stub | |
-| hamfests | stub | |
-| field-day | stub | |
-| youth-in-ham-radio | stub | |
-| online-communities | stub | |
-| further-reading | stub | |
+| overview | ai-draft | Initial content written 2026-04-05 |
+| clubs-and-organizations | ai-draft | Initial content written 2026-04-05 |
+| arrl | ai-draft | Initial content written 2026-04-05 |
+| rsgb | ai-draft | Initial content written 2026-04-05 |
+| iaru | ai-draft | Initial content written 2026-04-05 |
+| hamfests | ai-draft | Initial content written 2026-04-05 |
+| field-day | ai-draft | Initial content written 2026-04-05 |
+| youth-in-ham-radio | ai-draft | Initial content written 2026-04-05 |
+| online-communities | ai-draft | Initial content written 2026-04-05 |
+| further-reading | ai-draft | Initial content written 2026-04-05 |
