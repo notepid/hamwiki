@@ -109,21 +109,21 @@ This file tracks the status of every wiki page. Pages move through these stages:
 | overview | ai-draft | Content written 2026-04-05 |
 | antenna-fundamentals | ai-draft | Content written 2026-04-05 |
 | dipole | ai-draft | Content written 2026-04-05 |
-| vertical | stub | |
+| vertical | ai-draft | Content written 2026-04-05 |
 | yagi | ai-draft | Content written 2026-04-05 |
 | loop-antennas | ai-draft | Content written 2026-04-05 |
 | end-fed-half-wave | ai-draft | Content written 2026-04-05 |
 | wire-antennas | ai-draft | Content written 2026-04-05 |
-| mobile-antennas | stub | |
-| portable-antennas | stub | |
-| vhf-uhf-antennas | stub | |
-| satellite-antennas | stub | |
-| antenna-modeling | stub | |
+| mobile-antennas | ai-draft | Content written 2026-04-05 |
+| portable-antennas | ai-draft | Content written 2026-04-05 |
+| vhf-uhf-antennas | ai-draft | Content written 2026-04-05 |
+| satellite-antennas | ai-draft | Content written 2026-04-05 |
+| antenna-modeling | ai-draft | Content written 2026-04-05 |
 | feedlines | ai-draft | Content written 2026-04-05 |
 | baluns-and-ununs | ai-draft | Content written 2026-04-05 |
 | swr-and-matching | ai-draft | Content written 2026-04-05 |
-| antenna-restrictions | stub | |
-| building-antennas | stub | |
+| antenna-restrictions | ai-draft | Content written 2026-04-05 |
+| building-antennas | ai-draft | Content written 2026-04-05 |
 
 ## Propagation
 
