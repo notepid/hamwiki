@@ -2,14 +2,11 @@
 title: What is Amateur Radio?
 description: An introduction to the amateur radio hobby, what it is, and why millions of people around the world enjoy it
 published: true
-date: 2026-04-05T09:30:00.000Z
+date: 2026-04-05T18:22:27.116Z
 tags: beginner
 editor: markdown
-dateCreated: 2026-04-05T09:30:00.000Z
+dateCreated: 2026-04-05T07:36:14.895Z
 ---
-
-> **Notice:** This page was initially generated with the assistance of AI and is pending human review. The information may contain errors or omissions. Amateur radio operators are encouraged to verify all technical details independently. Help improve this page by submitting corrections and additions. [Learn how to contribute](/contributing) *Remove this banner after human review is complete.*
-{.is-warning}
 
 # What is Amateur Radio?
 
@@ -29,25 +26,25 @@ The hobby is remarkably broad. Here are some of the most popular activities:
 The most straightforward use of ham radio — talking to other people by voice. This can be local communication through [repeaters](/operating/repeaters) on VHF/UHF frequencies, or long-distance (DX) communication on the HF bands, where signals bounce off the ionosphere and can travel thousands of kilometres.
 
 ### Digital modes
-Modern amateur radio includes a wide range of [digital modes](/digital-modes/overview). [FT8](/digital-modes/ft8) allows contacts using extremely weak signals that would be inaudible to the human ear. [Winlink](/digital-modes/winlink) lets you send and receive email entirely over radio. [APRS](/digital-modes/aprs) provides real-time position tracking and short messaging. [DMR](/digital-modes/dmr), [D-STAR](/digital-modes/dstar), and [System Fusion](/digital-modes/system-fusion) offer digital voice communication with features like GPS tracking and text messaging.
+Modern amateur radio includes a wide range of [digital modes](/digital-modes). [FT8](/digital-modes/ft8) allows contacts using extremely weak signals that would be inaudible to the human ear. [Winlink](/digital-modes/winlink) lets you send and receive email entirely over radio. [APRS](/digital-modes/aprs) provides real-time position tracking and short messaging. [DMR](/digital-modes/dmr), [D-STAR](/digital-modes/dstar), and [System Fusion](/digital-modes/system-fusion) offer digital voice communication with features like GPS tracking and text messaging.
 
 ### Emergency communications
 When natural disasters, severe weather, or other emergencies knock out telephone and internet infrastructure, amateur radio operators often step in to provide vital communication links. Organizations like [ARES](/emergency-communications/ares) (in the US), [RAYNET](https://raynet-uk.net) (in the UK), and similar groups worldwide train volunteers to support emergency services when needed.
 
 ### Building and experimenting
-Many hams enjoy building their own [antennas](/antennas/overview), assembling radio kits, and experimenting with electronics. The [DIY and homebrew](/diy-projects/overview) tradition is one of the oldest parts of the hobby. Today, this extends to [software-defined radio (SDR)](/equipment/sdr-receivers), [Arduino](/diy-projects/arduino-in-ham-radio) and [Raspberry Pi](/diy-projects/raspberry-pi-projects) projects, and [3D printing](/diy-projects/3d-printing) custom parts.
+Many hams enjoy building their own [antennas](/antennas), assembling radio kits, and experimenting with electronics. The [DIY and homebrew](/diy-projects/overview) tradition is one of the oldest parts of the hobby. Today, this extends to [software-defined radio (SDR)](/equipment/sdr-receivers), [Arduino](/diy-projects/arduino-in-ham-radio) and [Raspberry Pi](/diy-projects/raspberry-pi-projects) projects, and [3D printing](/diy-projects/3d-printing) custom parts.
 
 ### Contesting
-[Contesting](/contesting/overview) is the competitive side of amateur radio. During contest events, operators try to make as many contacts as possible within a set time period. Major contests attract thousands of participants worldwide.
+[Contesting](/contesting) is the competitive side of amateur radio. During contest events, operators try to make as many contacts as possible within a set time period. Major contests attract thousands of participants worldwide.
 
 ### Satellite communication
-Amateur radio operators have built and launched their own [satellites](/satellites/overview). You can talk through these satellites using relatively modest equipment. Some hams have even made contact with astronauts aboard the [International Space Station](/satellites/iss-contacts).
+Amateur radio operators have built and launched their own [satellites](/satellites). You can talk through these satellites using relatively modest equipment. Some hams have even made contact with astronauts aboard the [International Space Station](/satellites/iss-contacts).
 
 ### Portable and outdoor operation
 Programs like [Parks on the Air (POTA)](/awards/pota) and [Summits on the Air (SOTA)](/awards/sota) combine amateur radio with outdoor recreation. Operators set up temporary stations in parks, on mountain summits, or on islands and make contacts from these locations.
 
 ### Awards and achievements
-The hobby has numerous [award programs](/awards/overview) that give operators goals to work toward — like contacting 100 different countries ([DXCC](/awards/dxcc)), all 50 US states ([WAS](/awards/was)), or all 40 CQ zones around the world ([WAZ](/awards/waz)).
+The hobby has numerous [award programs](/awards) that give operators goals to work toward — like contacting 100 different countries ([DXCC](/awards/dxcc)), all 50 US states ([WAS](/awards/was)), or all 40 CQ zones around the world ([WAZ](/awards/waz)).
 
 ## What frequencies do amateur radio operators use?
 
