@@ -177,13 +177,13 @@ This file tracks the status of every wiki page. Pages move through these stages:
 
 | Page | Status | Notes |
 |------|--------|-------|
-| overview | stub | |
-| amateur-satellites | stub | |
-| iss-contacts | stub | |
-| satellite-tracking | stub | |
-| satellite-equipment | stub | |
-| eme-moonbounce | stub | |
-| meteor-scatter | stub | |
+| overview | ai-draft | Initial content written 2026-04-05 |
+| amateur-satellites | ai-draft | Initial content written 2026-04-05 |
+| iss-contacts | ai-draft | Initial content written 2026-04-05 |
+| satellite-tracking | ai-draft | Initial content written 2026-04-05 |
+| satellite-equipment | ai-draft | Initial content written 2026-04-05 |
+| eme-moonbounce | ai-draft | Initial content written 2026-04-05 |
+| meteor-scatter | ai-draft | Initial content written 2026-04-05 |
 
 ## Contesting
 
