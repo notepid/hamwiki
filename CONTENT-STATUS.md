@@ -14,13 +14,13 @@ This file tracks the status of every wiki page. Pages move through these stages:
 
 | Page | Status | Notes |
 |------|--------|-------|
-| what-is-amateur-radio | stub | |
-| why-get-licensed | stub | |
-| how-to-get-licensed | stub | |
-| your-first-radio | stub | |
-| making-your-first-contact | stub | |
-| ham-radio-jargon | stub | |
-| phonetic-alphabet | stub | |
+| what-is-amateur-radio | ai-draft | Initial content written 2026-04-05 |
+| why-get-licensed | ai-draft | Initial content written 2026-04-05 |
+| how-to-get-licensed | ai-draft | Initial content written 2026-04-05 |
+| your-first-radio | ai-draft | Initial content written 2026-04-05 |
+| making-your-first-contact | ai-draft | Initial content written 2026-04-05 |
+| ham-radio-jargon | ai-draft | Initial content written 2026-04-05 |
+| phonetic-alphabet | ai-draft | Initial content written 2026-04-05 |
 
 ## Licensing & Regulations
 
