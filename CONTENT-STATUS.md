@@ -201,15 +201,15 @@ This file tracks the status of every wiki page. Pages move through these stages:
 
 | Page | Status | Notes |
 |------|--------|-------|
-| overview | stub | |
-| dxcc | stub | |
-| was | stub | |
-| waz | stub | |
-| vucc | stub | |
-| pota | stub | |
-| sota | stub | |
-| iota | stub | |
-| other-awards | stub | |
+| overview | ai-draft | Content written 2026-04-05 |
+| dxcc | ai-draft | Content written 2026-04-05 |
+| was | ai-draft | Content written 2026-04-05 |
+| waz | ai-draft | Content written 2026-04-05 |
+| vucc | ai-draft | Content written 2026-04-05 |
+| pota | ai-draft | Content written 2026-04-05 |
+| sota | ai-draft | Content written 2026-04-05 |
+| iota | ai-draft | Content written 2026-04-05 |
+| other-awards | ai-draft | Content written 2026-04-05 |
 
 ## Software & Tools
 
