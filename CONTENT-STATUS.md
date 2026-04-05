@@ -229,14 +229,14 @@ This file tracks the status of every wiki page. Pages move through these stages:
 
 | Page | Status | Notes |
 |------|--------|-------|
-| overview | stub | |
-| qrp-building | stub | |
-| antenna-projects | stub | |
-| kit-building | stub | |
-| arduino-in-ham-radio | stub | |
-| raspberry-pi-projects | stub | |
-| 3d-printing | stub | |
-| soldering-basics | stub | |
+| overview | ai-draft | Content written 2026-04-05 |
+| qrp-building | ai-draft | Content written 2026-04-05 |
+| antenna-projects | ai-draft | Content written 2026-04-05 |
+| kit-building | ai-draft | Content written 2026-04-05 |
+| arduino-in-ham-radio | ai-draft | Content written 2026-04-05 |
+| raspberry-pi-projects | ai-draft | Content written 2026-04-05 |
+| 3d-printing | ai-draft | Content written 2026-04-05 |
+| soldering-basics | ai-draft | Content written 2026-04-05 |
 
 ## History
 
