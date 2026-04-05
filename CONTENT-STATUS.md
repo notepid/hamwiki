@@ -84,23 +84,23 @@ This file tracks the status of every wiki page. Pages move through these stages:
 
 | Page | Status | Notes |
 |------|--------|-------|
-| overview | stub | |
-| hf-transceivers | stub | |
-| vhf-uhf-transceivers | stub | |
-| handheld-radios | stub | |
-| sdr-receivers | stub | |
-| amplifiers | stub | |
-| power-supplies | stub | |
-| antenna-tuners | stub | |
-| microphones | stub | |
-| headsets | stub | |
-| keyers-and-paddles | stub | |
-| test-equipment | stub | |
-| coaxial-cable | stub | |
-| connectors | stub | |
-| filters | stub | |
-| buying-guide | stub | |
-| used-equipment | stub | |
+| overview | ai-draft | Initial content written 2026-04-05 |
+| hf-transceivers | ai-draft | Initial content written 2026-04-05 |
+| vhf-uhf-transceivers | ai-draft | Initial content written 2026-04-05 |
+| handheld-radios | ai-draft | Initial content written 2026-04-05 |
+| sdr-receivers | ai-draft | Initial content written 2026-04-05 |
+| amplifiers | ai-draft | Initial content written 2026-04-05 |
+| power-supplies | ai-draft | Initial content written 2026-04-05 |
+| antenna-tuners | ai-draft | Initial content written 2026-04-05 |
+| microphones | ai-draft | Initial content written 2026-04-05 |
+| headsets | ai-draft | Initial content written 2026-04-05 |
+| keyers-and-paddles | ai-draft | Initial content written 2026-04-05 |
+| test-equipment | ai-draft | Content written 2026-04-05 |
+| coaxial-cable | ai-draft | Content written 2026-04-05 |
+| connectors | ai-draft | Content written 2026-04-05 |
+| filters | ai-draft | Content written 2026-04-05 |
+| buying-guide | ai-draft | Content written 2026-04-05 |
+| used-equipment | ai-draft | Content written 2026-04-05 |
 
 ## Antennas
 
