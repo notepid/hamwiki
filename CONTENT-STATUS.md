@@ -42,21 +42,21 @@ This file tracks the status of every wiki page. Pages move through these stages:
 
 | Page | Status | Notes |
 |------|--------|-------|
-| overview | stub | |
-| hf-operating | stub | |
-| vhf-uhf-operating | stub | |
-| repeaters | stub | |
-| simplex | stub | |
-| dx-operating | stub | |
-| qso-basics | stub | |
-| cw-morse-code | stub | |
-| voice-modes | stub | |
-| net-operations | stub | |
-| portable-operating | stub | |
-| mobile-operating | stub | |
-| maritime-mobile | stub | |
-| qsl-cards | stub | |
-| logging | stub | |
+| overview | ai-draft | Initial content written 2026-04-05 |
+| hf-operating | ai-draft | Initial content written 2026-04-05 |
+| vhf-uhf-operating | ai-draft | Initial content written 2026-04-05 |
+| repeaters | ai-draft | Initial content written 2026-04-05 |
+| simplex | ai-draft | Initial content written 2026-04-05 |
+| dx-operating | ai-draft | Initial content written 2026-04-05 |
+| qso-basics | ai-draft | Initial content written 2026-04-05 |
+| cw-morse-code | ai-draft | Initial content written 2026-04-05 |
+| voice-modes | ai-draft | Initial content written 2026-04-05 |
+| net-operations | ai-draft | Initial content written 2026-04-05 |
+| portable-operating | ai-draft | Initial content written 2026-04-05 |
+| mobile-operating | ai-draft | Initial content written 2026-04-05 |
+| maritime-mobile | ai-draft | Initial content written 2026-04-05 |
+| qsl-cards | ai-draft | Initial content written 2026-04-05 |
+| logging | ai-draft | Initial content written 2026-04-05 |
 
 ## Digital Modes
 
